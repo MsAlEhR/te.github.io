@@ -17,18 +17,18 @@
       <file leaf-file-name="UserProfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/UserProfile/UserProfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="357">
+              <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphDesign.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GraphDesign.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphDesign.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="141" column="43" lean-forward="false" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="43" />
+            <state relative-caret-position="952">
+              <caret line="73" column="24" lean-forward="false" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
               <folding>
                 <element signature="e#59#113#0" expanded="true" />
                 <element signature="e#188#239#0" expanded="true" />
@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphPart.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GraphPart.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphPart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-618">
-              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+            <state relative-caret-position="-833">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
                 <marker date="1568555048841" expanded="true" signature="3293:3339" ph="..." />
@@ -66,11 +66,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".eslintignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.eslintignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="CSVReader.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/CSVReader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="442">
+              <caret line="38" column="74" lean-forward="false" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -81,8 +91,8 @@
       <file leaf-file-name="CmpDropZone.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/CmpDropzone/CmpDropZone.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="27" column="65" lean-forward="false" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+            <state relative-caret-position="425">
+              <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -93,8 +103,8 @@
       <file leaf-file-name="CSVTable.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/CSVTable/CSVTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+            <state relative-caret-position="510">
+              <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -125,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/views/UserProfile/UserProfile.js" />
         <option value="$PROJECT_DIR$/src/views/Graph/GraphPart.js" />
         <option value="$PROJECT_DIR$/src/views/Graph/Graph.js" />
         <option value="$PROJECT_DIR$/src/routes.js" />
@@ -135,12 +144,20 @@
         <option value="$PROJECT_DIR$/src/components/CmpDropzone/CmpDropZone.js" />
         <option value="$PROJECT_DIR$/src/views/GraphDesign/CSVReader.js" />
         <option value="$PROJECT_DIR$/src/views/GraphDesign/GraphDesign.js" />
+        <option value="$PROJECT_DIR$/src/views/GraphDesign/GraphPart.js" />
+        <option value="$PROJECT_DIR$/src/views/UserProfile/UserProfile.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
     <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -154,11 +171,33 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSAnnotator</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -175,43 +214,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="material-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="material-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="MohammadSalehRefahi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MohammadSalehRefahi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="material-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="material-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
+              <item name="MohammadSalehRefahi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MohammadSalehRefahi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="material-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="material-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="material-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="material-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="material-dashboard-react-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="material-dashboard-react-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="GraphDesign" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,6 +239,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="D:\FrontProject\PersonalSite\MohammadSalehRefahi\node_modules\eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="D:\FrontProject\PersonalSite\MohammadSalehRefahi\node_modules\eslint" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -248,14 +277,17 @@
       <workItem from="1568542907567" duration="7803000" />
       <workItem from="1568614924702" duration="12538000" />
       <workItem from="1568695956366" duration="10262000" />
+      <workItem from="1568808407410" duration="2776000" />
+      <workItem from="1569042383031" duration="761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30603000" />
+    <option name="totallyTimeSpent" value="34140000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16122234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -290,6 +322,138 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/CSVReader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="74" lean-forward="false" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CmpDropzone/CmpDropZone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CSVTable/CSVTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphPart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1568555048841" expanded="true" signature="3293:3339" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3340:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3370:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3389:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3405:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3665:4176" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="4243:4779" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="4871:5404" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="4892:5018" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5110:5384" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5637:5683" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5684:6413" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5704:6407" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5713:6406" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5719:6100" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="6109:6392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/UserProfile/UserProfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphPart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <marker date="1568555048841" expanded="true" signature="3293:3339" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3340:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3370:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3389:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3405:3638" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="3665:4176" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="4243:4779" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="4871:5404" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="4892:5018" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5110:5384" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5637:5683" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5684:6413" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5704:6407" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5713:6406" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="5719:6100" ph="..." />
+            <marker date="1568555048841" expanded="true" signature="6109:6392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/CSVReader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CmpDropzone/CmpDropZone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="65" lean-forward="false" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CSVTable/CSVTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphDesign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="141" column="43" lean-forward="false" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="43" />
+          <folding>
+            <element signature="e#59#113#0" expanded="true" />
+            <element signature="e#188#239#0" expanded="true" />
+            <element signature="e#865#931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/UserProfile/UserProfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -432,9 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,14 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/UserProfile/UserProfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CustomInput/CustomInput.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -596,16 +749,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-19">
           <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CSVTable/CSVTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="510">
+          <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -614,8 +764,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CmpDropzone/CmpDropZone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="27" column="65" lean-forward="false" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+        <state relative-caret-position="425">
+          <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -624,18 +774,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/CSVReader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="442">
+          <caret line="38" column="74" lean-forward="false" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/UserProfile/UserProfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphDesign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="73" column="24" lean-forward="false" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+          <folding>
+            <element signature="e#59#113#0" expanded="true" />
+            <element signature="e#188#239#0" expanded="true" />
+            <element signature="e#865#931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphPart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-618">
-          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        <state relative-caret-position="-833">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
             <marker date="1568555048841" expanded="true" signature="3293:3339" ph="..." />
@@ -654,18 +832,6 @@
             <marker date="1568555048841" expanded="true" signature="5713:6406" ph="..." />
             <marker date="1568555048841" expanded="true" signature="5719:6100" ph="..." />
             <marker date="1568555048841" expanded="true" signature="6109:6392" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/GraphDesign/GraphDesign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="141" column="43" lean-forward="false" selection-start-line="141" selection-start-column="36" selection-end-line="141" selection-end-column="43" />
-          <folding>
-            <element signature="e#59#113#0" expanded="true" />
-            <element signature="e#188#239#0" expanded="true" />
-            <element signature="e#865#931#0" expanded="true" />
           </folding>
         </state>
       </provider>
