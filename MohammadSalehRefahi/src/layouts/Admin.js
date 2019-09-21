@@ -8,7 +8,9 @@ import { makeStyles } from "@material-ui/core/styles";
 // core components
 import Navbar from "components/Navbars/Navbar.js";
 import Footer from "components/Footer/Footer.js";
-import Sidebar from "components/Sidebar/Sidebar.js";
+
+import Sidebar from "../components/Sidebar/Sidebar.js";
+
 import FixedPlugin from "components/FixedPlugin/FixedPlugin.js";
 
 import routes from "routes.js";
@@ -16,7 +18,10 @@ import routes from "routes.js";
 import styles from "assets/jss/material-dashboard-react/layouts/adminStyle.js";
 
 import bgImage from "assets/img/sidebar-2.jpg";
-import logo from "assets/img/reactlogo.png";
+
+import dnaImg from "assets/img/dna_info.jpg";
+
+import logo from "assets/img/bioinformatics.svg";
 
 let ps;
 
@@ -34,7 +39,7 @@ const switchRoutes = (
       }
       return null;
     })}
-    <Redirect from="/admin" to="/admin/dashboard" />
+    <Redirect from="/admin" to="/admin/home" />
   </Switch>
 );
 
@@ -93,7 +98,7 @@ export default function Admin({ ...rest }) {
     };
   }, [mainPanel]);
   return (
-    <div className={classes.wrapper}>
+    <div className={classes.wrapper} >
       <Sidebar
         routes={routes}
         logoText={"M.Saleh Refahi"}
@@ -104,7 +109,7 @@ export default function Admin({ ...rest }) {
         color={color}
         {...rest}
       />
-      <div className={classes.mainPanel} ref={mainPanel}>
+      <div className={classes.mainPanel} ref={mainPanel} style={{ backgroundImage: "url(" + dnaImg + ")" }}>
         <Navbar
           routes={routes}
           handleDrawerToggle={handleDrawerToggle}
@@ -119,14 +124,14 @@ export default function Admin({ ...rest }) {
           <div className={classes.map}>{switchRoutes}</div>
         )}
         {getRoute() ? <Footer /> : null}
-        <FixedPlugin
-          handleImageClick={handleImageClick}
-          handleColorClick={handleColorClick}
-          bgColor={color}
-          bgImage={image}
-          handleFixedClick={handleFixedClick}
-          fixedClasses={fixedClasses}
-        />
+        {/*<FixedPlugin*/}
+          {/*handleImageClick={handleImageClick}*/}
+          {/*handleColorClick={handleColorClick}*/}
+          {/*bgColor={color}*/}
+          {/*bgImage={image}*/}
+          {/*handleFixedClick={handleFixedClick}*/}
+          {/*fixedClasses={fixedClasses}*/}
+        {/*/>*/}
       </div>
     </div>
   );
