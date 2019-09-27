@@ -12,6 +12,7 @@
     "chartist": "0.10.1",
     "classnames": "2.2.6",
     "history": "4.9.0",
+    "jupyter-react-js": "^0.5.1",
     "material-ui": "^0.20.2",
     "material-ui-dropzone": "^2.4.1",
     "perfect-scrollbar": "1.4.0",
@@ -25,8 +26,9 @@
     "react-google-maps": "9.4.5",
     "react-graph-vis": "^1.0.2",
     "react-router-dom": "5.0.1",
-    "react-scripts": "3.1.0",
+    "react-scripts": "^3.1.0",
     "react-swipeable-views": "0.13.3",
+    "requirejs": "^2.3.6",
     "savery": "^1.2.0",
     "vis-network": "^6.0.0"
   },

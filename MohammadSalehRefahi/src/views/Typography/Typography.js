@@ -12,7 +12,6 @@ import Danger from "components/Typography/Danger.js";
 import Card from "components/Card/Card.js";
 import CardHeader from "components/Card/CardHeader.js";
 import CardBody from "components/Card/CardBody.js";
-
 const styles = {
   typo: {
     paddingLeft: "25%",
@@ -51,6 +50,7 @@ const styles = {
 };
 
 const useStyles = makeStyles(styles);
+
 
 export default function TypographyPage() {
   const classes = useStyles();
