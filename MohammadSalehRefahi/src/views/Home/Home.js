@@ -32,22 +32,22 @@ class Home extends React.Component {
                 // style={{ backgroundImage: "url(" + imagine1 + ")" }}
             >
                 <GridContainer align="center" justify="center">
-                <GridItem   xs={12} sm={12} md={6}>
-                    <Card profile  style={{backgroundColor: '#9ed4a1'}}>
+                <GridItem   xs={6} sm={6} md={6}>
+                    <Card profile  style={{backgroundColor: '#acd4c4'}}>
                         <CardAvatar profile>
                             <a href="#pablo" onClick={e => e.preventDefault()}>
                                 <img src={avatar} alt="..." />
                             </a>
                         </CardAvatar>
                         <CardBody profile >
-                            <h6 className={styles.cardCategory}>Machine learning Researcher </h6>
-                            <h4 className={styles.cardTitle}>Mohammad Saleh Refahi</h4>
+                            <h1 className={styles.cardTitle}>Mohammad Saleh Refahi</h1>
                             <p className={styles.description}>
-                                Don{"'"}t Stop keep going...
+                                <h4 className={styles.cardTitle}>RESEARCH INTEREST</h4>
+                                <span>Application of Machine Learning and Deep Learning in Bioinformatics</span><br/>
+                                <span> Network Analysis in biology</span><br/>
+                                <span> Computer vision</span><br/>
                             </p>
-                            {/*<Button color="primary" round>*/}
-                                {/*Follow*/}
-                            {/*</Button>*/}
+
                         </CardBody>
                     </Card>
                 </GridItem>

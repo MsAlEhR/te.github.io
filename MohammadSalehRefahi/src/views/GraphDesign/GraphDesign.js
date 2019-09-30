@@ -220,9 +220,9 @@ class GraphDesign extends React.Component {
                                     {/*</GridItem>*/}
                                 {/*</GridContainer>*/}
                             {/*</CardBody>*/}
-                            <CardFooter>
-                                <Button color="primary">Update Profile</Button>
-                            </CardFooter>
+                            {/*<CardFooter>*/}
+                            {/*    <Button color="primary">Update Profile</Button>*/}
+                            {/*</CardFooter>*/}
                         </Card>
 
                     </GridItem>

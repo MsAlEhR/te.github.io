@@ -64,7 +64,9 @@ class CSVReader extends React.Component {
             <div>
                 <MuiThemeProvider>
                     <AppBar
-                        title="Select CSV"
+                        title="CSV"
+                        style={{ background: '#8e24aa' }}
+                        color="inherit"
                         onLeftIconButtonClick={this.handleMenu}
                         iconElementRight={
                             <div>
